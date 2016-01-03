@@ -4,4 +4,4 @@
 + To find the lightweigt tagging methods for images.
 
 + To find the scalable method of experimenting.
-+ 
+
