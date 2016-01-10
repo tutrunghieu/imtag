@@ -1,0 +1,11 @@
+Here are my final conclusion
+===============================
+
++ we have the over-fitting situation due to the sparse vector space.
+the training error is zero but the testing error is more than 30%.
+See BOW501-svmlinear-jan10.txt for more details.
+
++ your code is really junk and not usable. So try to improve it.
++ try to modularize the code to avoid error. 
+See review1-tagging.R as an example of good coding.
+
